@@ -1,0 +1,40 @@
+{
+    "menu": {
+        "file": {
+            "name": "File",
+            "items": {
+                "new": "New",
+                "open": "Open",
+                "close": "Close",
+                "save": "Save",
+                "saveAs": "Save as...",
+                "exit": "Exit"
+            }
+        },
+        "edit": {
+            "name": "Edit",
+            "items": {
+                "cut": "Cut",
+                "copy": "Copy",
+                "paste": "Paste",
+                "dublicate": "Dublicate",
+                "selectAll": "Select all"
+            }
+        },
+        "simulation": {
+            "name": "Simulation",
+            "items": {
+                "start": "Start",
+                "stop": "Stop",
+                "parameters": "Configuration parameters..."
+            }
+        },
+        "help": {
+            "name": "Help",
+            "items": {
+                "productHelp": "Product help",
+                "settings": "Settings"
+            }
+        }
+    }
+}
